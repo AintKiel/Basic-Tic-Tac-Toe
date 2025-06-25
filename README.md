@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="TIC-TAC-TOE output.png" width="350" alt="Game Screenshot">
+</div>
+
 # 🧽 SpongeBob Tic Tac Toe 🎮
 
 Ahoy there! Welcome to **SpongeBob Tic Tac Toe**, where jellyfish meet Java in a bubbly twist on the classic Xs and Os game — Bikini Bottom style! 🌊
